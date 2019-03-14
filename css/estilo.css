@@ -1,1 +1,88 @@
+html {
+	overflow-y: scroll;
+	position: relative;
+	min-height: 100%;
+}
+
+body{
+	margin-bottom: 60px;
+}
+
+#myCarousel{
+	position: relative;
+	margin: auto;	
+}
+
+
+.container_marketing{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+.container_produto{
+	text-align: center;
+	margin-top: 120px;
+}
+
+#fale_conosco{
+	margin-top: 80px;
+}
+
+#cliente{
+	margin-top: 80px;
+	padding: 10px;
+}
+
+#maps{
+	position: relative;
+}
+
+#quem_somos{
+	margin-top: 80px;
+}
+
+#modelo1:hover{
+	transform: scale(1.2);
+	transition: all 0.5s;
+}
+
+#modelo2:hover{
+	transform: scale(1.2);
+	transition: all 0.5s;
+}
+
+#modelo3:hover{
+	transform: scale(1.2);
+	transition: all 0.5s;
+}
+
+#produto1:hover{
+	transform: scale(1.1);
+	transition: all 0.5s;
+}
+
+#produto2:hover{
+	transform: scale(1.1);
+	transition: all 0.5s;
+}
+
+#produto3:hover{
+	transform: scale(1.1);
+	transition: all 0.5s;
+}
+
+.footer{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	background-color: black;
+}
+
+.text-muted{
+	color: white;
+	margin-top: 15px;
+	text-align: center;
+}
 
